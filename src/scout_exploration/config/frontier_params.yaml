@@ -1,0 +1,16 @@
+frontier_explorer:
+  ros__parameters:
+
+    min_cluster_size: 8
+
+    min_target_distance: 0.5
+
+    blacklist_radius: 1.0
+
+    max_navigation_time: 180.0
+
+    progress_check_window: 45.0
+
+    minimum_progress: 0.3
+
+    next_goal_delay_sec: 3.0
